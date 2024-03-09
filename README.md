@@ -14,12 +14,12 @@ Site: [Dev Superior](https://devsuperior.com.br).
 
 ## Exercícios
 
-1. [Exercício 1](#exercício-1)
-1. [Exercício 2](#exercício-2)
-1. [Exercício 3](#exercício-3)
-1. [Exercício 4](#exercício-4)
-1. [Exercício 5](#exercício-5)
-1. [Exercício 6](#exercício-6)
+- [Exercício 1](#exercício-1)
+- [Exercício 2](#exercício-2)
+- [Exercício 3](#exercício-3)
+- [Exercício 4](#exercício-4)
+- [Exercício 5](#exercício-5)
+- [Exercício 6](#exercício-6)
 
 ### Exercício 1
 
