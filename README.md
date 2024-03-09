@@ -12,7 +12,7 @@ Github: [Nelio Alves](https://github.com/acenelio).
 
 Site: [Dev Superior](https://devsuperior.com.br).
 
-### Exercícios
+## Exercícios
 
 1. [Exercício 1](#exercício-1)
 1. [Exercício 2](#exercício-2)
@@ -21,13 +21,13 @@ Site: [Dev Superior](https://devsuperior.com.br).
 1. [Exercício 5](#exercício-5)
 1. [Exercício 6](#exercício-6)
 
-#### Exercício 1
+### Exercício 1
 
 Correção: [clique aqui](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1003.java)
 
 Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma mensagem explicativa, conforme exemplos.
 
-##### Exercício 1 - Exemplos
+#### Exercício 1 - Exemplos
 
 ```bash
 10
@@ -47,13 +47,13 @@ SOMA = -20
 SOMA = 0
 ```
 
-#### Exercício 2
+### Exercício 2
 
 Correção: [clique aqui](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1002.java)
 
 Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos. Fórmula da área: area = π . raio². Considere o valor de π = 3.14159.
 
-##### Exercício 2 - Exemplos
+#### Exercício 2 - Exemplos
 
 ```bash
 2,00
@@ -70,13 +70,13 @@ A=31819.3103
 A=70685.7750
 ```
 
-#### Exercício 3
+### Exercício 3
 
 Correção: [clique aqui](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1007.java)
 
 Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: Fórmula: DIFERENCA = (A \* B - C \* D).
 
-##### Exercício 3 - Exemplos
+#### Exercício 3 - Exemplos
 
 ```bash
 5
@@ -94,13 +94,13 @@ DIFERENCA = -26
 DIFERENCA = 86
 ```
 
-#### Exercício 4
+### Exercício 4
 
 Correção: [clique aqui](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1008.java)
 
 Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
 
-##### Exercício 4 - Exemplos
+#### Exercício 4 - Exemplos
 
 ```bash
 2
@@ -130,13 +130,13 @@ NUMBER = 6
 SALARY = U$ 2254.75
 ```
 
-#### Exercício 5
+### Exercício 5
 
 Correção: [clique aqui](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1010.java)
 
 Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.
 
-##### Exercício 5 - Exemplos
+#### Exercício 5 - Exemplos
 
 ```bash
 12 1 5.30
@@ -159,7 +159,7 @@ VALOR A PAGAR: R$ 51.40
 VALOR A PAGAR: R$ 30.20
 ```
 
-#### Exercício 6
+### Exercício 6
 
 Correção: [clique aqui](https://github.com/acenelio/nivelamento-java/blob/master/src/uri1012.java)
 
@@ -171,7 +171,7 @@ Fazer um programa que leia três valores com ponto flutuante de dupla precisão:
 - Área do quadrado que tem lado B.
 - Área do retângulo que tem lados A e B.
 
-##### Exercício 6 - Exemplos
+#### Exercício 6 - Exemplos
 
 ```bash
 3.0 4.0 5.2
