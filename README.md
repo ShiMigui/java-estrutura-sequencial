@@ -1,4 +1,4 @@
-# Curso de Java completo - Estrutura seuquencial
+# Curso de Java completo - Estrutura sequencial
 
 Este repositório foi criado para armazenar os exercícios e projetos desenvolvidos no curso de Java da Udemy. Recomendo que, se quiser ter acesso à experiência completa, inscreva-se no curso. Abaixo estão detalhes sobre o curso:
 
